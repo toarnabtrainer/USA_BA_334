@@ -18,6 +18,7 @@ or
 http://tinyurl.com/44y8ppnj
 
 <hr>
+---
 
 ## Chapter-2 - SDLC Resources:
 
