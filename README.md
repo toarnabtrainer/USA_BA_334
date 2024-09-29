@@ -5,7 +5,7 @@
 
 ## Chapter-1 - Project Management Resources:
 
-**Tutorials on Project Management:**<br>
+**Tutorials on Project Management:** <br>
 * https://www.guru99.com/initiation-phase-project-management-life-cycle.html
 * https://www.knowledgehut.com/tutorials/project-management
 * https://www.projectengineer.net/tutorials/project-management/
